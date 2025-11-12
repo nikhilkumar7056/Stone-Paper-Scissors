@@ -32,3 +32,6 @@ This project helped me practice:
 
 ## 🚀 Live Demo
 👉 [Play on GitHub Pages](https://github.com/nikhilkumar7056/Stone-Paper-Scissors)
+
+## 📸 Preview
+C:/Users/nikhi/Desktop/Projects/Stone-Paper&Scissors/index.html
