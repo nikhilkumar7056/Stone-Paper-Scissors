@@ -31,4 +31,4 @@ This project helped me practice:
 ---
 
 ## 🚀 Live Demo
-👉 [Play on GitHub Pages]()
+👉 [Play on GitHub Pages](https://github.com/nikhilkumar7056/Stone-Paper-Scissors)
